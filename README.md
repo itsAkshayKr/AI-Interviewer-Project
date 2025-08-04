@@ -1,6 +1,7 @@
 Note: 
 1) Make sure to enter your Google Gemini API key in AI_interview.py
 2) Before beginning the interview mention your Job Position in main.py
+<img width="940" height="669" alt="image" src="https://github.com/user-attachments/assets/f5945dce-220f-44ee-a5d2-c7a936a2049e" />
 
 Demo Run: Job Position -> Business Analyst
 ----------------------------------------------------------------------
