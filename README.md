@@ -108,7 +108,7 @@ To improve, please add:
 *   **The outcome:** What was the final solution for that bias-cut dress, and how did it meet the aesthetic and sustainability goals?
 ----------------------------------------------------------------------
 Interviewer: Thank you for clarifying the challenge. Regarding that bias-cut evening dress and the bamboo silk, what specific design adjustments or alternative solutions did you explore and implement to achieve the desired drape and structure while maintaining sustainability?   
-Enter your response: ----------------------------------------------------------------------  
+----------------------------------------------------------------------  
 candidate:
 To improve the drape of the bamboo silk dress, I redesigned it with panels and godets for added structure.I used Tencel-based linings and a hemp-silk interlining to maintain sustainability while enhancing shape.The grainline was adjusted in Gerber AccuMark for optimal flow, and I collaborated on a bamboo-Tencel fabric blend.Draping tests in CLO 3D helped finalize the pattern with minimal waste and strong visual impact.
 ----------------------------------------------------------------------
@@ -139,7 +139,6 @@ You've successfully highlighted:
 
 You've articulated a complex process clearly and concisely, demonstrating strong project management and interpersonal skills crucial for a Fashion Designer.
 
-Let's shift focus slightly. **The fashion industry is constantly evolving, especially with new technologies and sustainability demands. How do you stay current with emerging trends, materials, and digital tools, and how do you integrate them into your design practice?**
 ----------------------------------------------------------------------
 Interviewer: TERMINATE
 ----------------------------------------------------------------------
@@ -192,7 +191,6 @@ Career_Coach: This is an excellent and thorough response! You've clearly outline
 
 To make it even more robust, you could briefly give a specific example of an "inconsistency" you've encountered (e.g., "like varying date formats, inconsistent categorical spellings, or duplicate records") to show the breadth of issues you've handled beyond just missing values.
 
-Let's move on. Imagine you're tasked with identifying the top 5 customers who have spent the most in each of the last three months from a `transactions` table (columns: `customer_id`, `transaction_date`, `amount`). How would you approach this using SQL?   
 ----------------------------------------------------------------------
 Interviewer: TERMINATE
 ----------------------------------------------------------------------
