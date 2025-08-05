@@ -6,13 +6,13 @@ There are two basic agents in autogen:
 
 Note: Make sure to enter your Google Gemini API key in AI_interview.py
    
-Demo Run: Job Position -> Business Analyst
+Demo Run 1: Job Position -> Business Analyst
 ----------------------------------------------------------------------
 user: Start the interview with the first question ?
 ----------------------------------------------------------------------
 Interviewer: Welcome! Let's start with your experience. Could you describe a significant project where you leveraged your technical skills to analyze business needs and propose a solution? What specific tools or methodologies did you find most effective?
 ----------------------------------------------------------------------
-Enter your response: candidate: Certainly. In a project for an e-commerce client, I analyzed sales and customer behavior data to identify declining repeat purchases. Using SQL and Python, I built cohort analyses and RFM segmentation models to uncover patterns. The analysis revealed that customers acquired through discount-heavy campaigns had the lowest retention.I proposed a solution involving targeted loyalty programs and adjusted acquisition strategies, which improved repeat purchases by 22% over the next quarter. The most effective tools were SQL for data extraction, Python (Pandas, Matplotlib) for analysis and visualization, and close collaboration with marketing to translate insights into action.
+candidate: Certainly. In a project for an e-commerce client, I analyzed sales and customer behavior data to identify declining repeat purchases. Using SQL and Python, I built cohort analyses and RFM segmentation models to uncover patterns. The analysis revealed that customers acquired through discount-heavy campaigns had the lowest retention.I proposed a solution involving targeted loyalty programs and adjusted acquisition strategies, which improved repeat purchases by 22% over the next quarter. The most effective tools were SQL for data extraction, Python (Pandas, Matplotlib) for analysis and visualization, and close collaboration with marketing to translate insights into action.
 ----------------------------------------------------------------------
 Career_Coach: That's a strong start! Your answer effectively uses the STAR method, clearly outlining the **Situation, Task, Action, and Result** with quantifiable impact (22% improvement). You demonstrated specific technical skills (SQL, Python, RFM, Cohort Analysis) and highlighted the business value.
 
@@ -74,4 +74,128 @@ Interviewer: That's a very impressive approach to handling data scarcity and amb
 
 TERMINATE
 ----------------------------------------------------------------------
+
+Demo Run 2: Job Position -> Fashion Designer
+----------------------------------------------------------------------
+user: Start the interview with the first question ?
+----------------------------------------------------------------------
+Interviewer: Welcome! Let's start with your experience. Could you describe your most significant achievement as a Fashion Designer, highlighting the technical skills and design software you utilized?
+----------------------------------------------------------------------
+candidate: 
+Enter your response: One of my most significant achievements as a Fashion Designer was leading the conceptualization and execution of a sustainable fashion line for Spring/Summer, which was showcased at the Lakme Fashion Week. This collection stood out because it combined innovative textile sourcing with digital design precision, allowing us to reduce waste by 30%.From a technical perspective, I used CLO 3D and Adobe Illustrator extensively throughout the design process. CLO 3D helped me simulate garment drapes and test fabric behavior virtually, eliminating the need for multiple physical prototypes. Illustrator was essential for creating detailed flat sketches, custom prints, and tech packs for the production team.
+----------------------------------------------------------------------
+Career_Coach: That's a strong start! You clearly articulated a significant achievement, quantifying the impact (30% waste reduction) and effectively demonstrating your proficiency with relevant software like CLO 3D and Adobe Illustrator, explaining *how* you used them.
+
+To make it even stronger, consider adding:
+*   **More detail on "innovative textile sourcing":** Briefly mention an example (e.g., recycled polyester, organic cotton blends).
+*   **The creative challenge:** What design or conceptual hurdle did you overcome?
+*   **Broader impact:** How did this collection benefit the brand beyond waste reduction (e.g., brand reputation, market reception)?
+
+This will add depth to your leadership and problem-solving skills, not just technical prowess.
+----------------------------------------------------------------------
+Interviewer: That sounds like a very impactful project. During the development of that sustainable line, what was the most significant design or production challenge you encountered, and how did you resolve it using your skills and resources?
+----------------------------------------------------------------------
+candidate:
+Enter your response: The most significant challenge during the development of the sustainable line was balancing aesthetic appeal with fabric limitations. Sustainable textiles like hemp, organic cotton, and bamboo often behave differently than conventional fabrics—they wrinkle more easily, have less stretch, or drape differently—which posed difficulties in achieving the sleek silhouettes I had originally envisioned.One particular design—a bias-cut evening dress—looked flawless in digital simulations using CLO 3D, but during the sampling phase, the bamboo silk version lacked the fluidity and structure needed for that design. This discrepancy between virtual and physical output was a key hurdle.
+----------------------------------------------------------------------
+Career_Coach: You've articulated a very common and realistic challenge in sustainable design – the discrepancy between digital simulation and physical fabric behavior. It's excellent that you identified this specific hurdle with the bias-cut dress and bamboo silk.
+
+However, you've described the problem thoroughly but haven't yet explained **how you resolved it.** The question specifically asks: "how did you resolve it using your skills and resources?"
+
+To improve, please add:
+*   **Your specific actions:** What design adjustments did you make? Did you alter the pattern, experiment with fabric blends, or perhaps adjust the design lines to better suit the fabric's properties?
+*   **Your thought process:** How did you iterate or problem-solve?
+*   **The outcome:** What was the final solution for that bias-cut dress, and how did it meet the aesthetic and sustainability goals?
+----------------------------------------------------------------------
+Interviewer: Thank you for clarifying the challenge. Regarding that bias-cut evening dress and the bamboo silk, what specific design adjustments or alternative solutions did you explore and implement to achieve the desired drape and structure while maintaining sustainability?   
+Enter your response: ----------------------------------------------------------------------  
+candidate:
+To improve the drape of the bamboo silk dress, I redesigned it with panels and godets for added structure.I used Tencel-based linings and a hemp-silk interlining to maintain sustainability while enhancing shape.The grainline was adjusted in Gerber AccuMark for optimal flow, and I collaborated on a bamboo-Tencel fabric blend.Draping tests in CLO 3D helped finalize the pattern with minimal waste and strong visual impact.
+----------------------------------------------------------------------
+Career_Coach: This is an **excellent** follow-up! You've provided a comprehensive and highly technical solution, directly addressing the previous gap.
+
+You clearly articulated:
+*   **Specific design modifications:** "redesigned it with panels and godets."
+*   **Innovative material solutions:** "Tencel-based linings," "hemp-silk interlining," and collaborating on a "bamboo-Tencel fabric blend." This shows deep material knowledge and a proactive approach.
+*   **Advanced software skills:** Mentioning "Gerber AccuMark" for grainline adjustments and "CLO 3D" for draping tests demonstrates a versatile technical toolkit.
+*   **Sustainability commitment:** You consistently linked your solutions back to maintaining sustainability.
+
+This response demonstrates not only your problem-solving abilities but also your technical proficiency, material knowledge, and commitment to sustainable practices. You've clearly showcased how you overcome design challenges.
+
+Let's move on to the next question. **Beyond technical skills, what leadership or team collaboration experiences have you had that you believe are crucial for a successful fashion design project?**
+----------------------------------------------------------------------
+Interviewer: Fashion design often involves intense collaboration. Can you describe a time you successfully aligned diverse team members, such as patternmakers or marketers, around a complex design vision, and what was the outcome?
+----------------------------------------------------------------------
+candidate:
+Enter your response: While developing a capsule collection with a cultural fusion theme, I led alignment between patternmakers, fabric technologists, and marketers by creating a shared digital mood board and 3D mockups in CLO 3D.I held weekly sync-ups to bridge design intent with production feasibility and market positioning.By speaking each team's "language"—technical specs for patternmakers, consumer trends for marketers—we stayed unified.The collection launched on time, exceeded sales targets by 18%, and received press coverage for its cohesive storytelling.
+----------------------------------------------------------------------
+Career_Coach: This is an **excellent** response that powerfully showcases your collaboration and leadership skills!
+
+You've successfully highlighted:
+*   **Proactive tools:** Using a "shared digital mood board and 3D mockups in CLO 3D" demonstrates forward-thinking and effective communication tools.
+*   **Structured approach:** "Weekly sync-ups" show a consistent method for keeping everyone aligned.
+*   **Adaptive communication:** "Speaking each team's 'language'" is a critical leadership skill, demonstrating empathy and strategic communication.
+*   **Quantifiable results:** "Launched on time, exceeded sales targets by 18%, and received press coverage" provides concrete evidence of success.
+
+You've articulated a complex process clearly and concisely, demonstrating strong project management and interpersonal skills crucial for a Fashion Designer.
+
+Let's shift focus slightly. **The fashion industry is constantly evolving, especially with new technologies and sustainability demands. How do you stay current with emerging trends, materials, and digital tools, and how do you integrate them into your design practice?**
+----------------------------------------------------------------------
+Interviewer: TERMINATE
+----------------------------------------------------------------------
+
+Demo Run 3: Job Position -> Data Analyst
+----------------------------------------------------------------------
+user: Start the interview with the first question ?
+----------------------------------------------------------------------
+Interviewer: Welcome! Let's start with your technical skills and experience. Can you tell me about a project where you used data analysis to solve a real business problem, and what tools did you primarily use?
+----------------------------------------------------------------------
+candidate: 
+In one project, I analyzed customer churn data for a subscription-based platform to identify key drivers of attrition. Using Python (Pandas, NumPy, and Scikit-learn) and SQL, I built a logistic regression model and created visual dashboards in Tableau. The insights helped redesign the onboarding process, reducing churn by 18% in three months.
+----------------------------------------------------------------------
+Career_Coach: That's a very strong answer! You clearly articulated a real business problem, the specific tools you used (Python, SQL, Tableau), and most importantly, you quantified the positive impact of your analysis (18% churn reduction).
+
+To make it even more compelling, consider briefly mentioning *what specific types of drivers* you identified (e.g., low feature adoption, specific service issues) and *how those insights directly translated* into the redesign of the onboarding process. This shows an even deeper connection between your analytical work and the strategic solution.
+
+Let's move on. Imagine you've developed a complex data model to predict customer lifetime value. How would you explain the model's key assumptions and limitations to a non-technical stakeholder, like a marketing manager?
+----------------------------------------------------------------------
+Interviewer: That's an impressive outcome. You mentioned using a logistic regression model. Can you describe a significant challenge you faced while building or deploying that churn model, and how you approached solving it?
+----------------------------------------------------------------------
+candidate: 
+Enter your response: Thank you! One significant challenge was **class imbalance**—only about 12% of users in the dataset had churned, which skewed the model toward predicting retention. Initially, the model had high accuracy but poor recall for churners.To address this, I used **SMOTE (Synthetic Minority Over-sampling Technique)** to balance the training data and tested different thresholds to optimize for F1 score instead of accuracy. I also experimented with ensemble methods like Random Forest to validate robustness. This improved churn prediction recall by over 30%, making the model much more actionable for the business.
+----------------------------------------------------------------------
+Career_Coach: This is an excellent response! You've clearly identified a significant challenge (class imbalance), articulated its impact on model performance (high accuracy, poor recall), and presented effective, appropriate solutions (SMOTE, F1 score optimization, ensemble methods). Quantifying the improvement in recall by 30% is particularly strong, as it directly ties your technical solution back to a tangible business benefit.
+
+To refine it further, you could briefly explain *why* recall was the most critical metric for the business in this context (e.g., "because identifying true churners was paramount for intervention efforts"). Also, a quick, high-level description of what SMOTE does (e.g., "by generating synthetic examples of the minority class") would demonstrate even deeper understanding.
+
+Let's move on. Imagine you've developed a complex data model to predict customer lifetime value. How would you explain the model's key assumptions and limitations to a non-technical stakeholder, like a marketing manager?
+----------------------------------------------------------------------
+Interviewer: It sounds like you effectively addressed a critical modeling challenge. Now, let's consider collaboration. Data analysis often involves working with diverse teams. Can you describe a time you had to present complex analytical findings to a non-technical audience, and what strategies you used to ensure they understood and acted on your insights?
+----------------------------------------------------------------------
+candidate:
+Enter your response: Absolutely. In the churn analysis project, I had to present the findings to the marketing and customer success teams, who had limited technical backgrounds. To ensure clarity, I used **simple visuals**—like funnel charts and heatmaps in Tableau—and avoided technical jargon, focusing instead on the **“so what”** of each insight.For example, instead of saying "logistic regression shows feature importance," I explained that **users who didn’t engage in the first week were 3x more likely to churn**, highlighting actionable next steps. I also shared mock user personas to illustrate patterns. This approach led to clear, immediate changes in onboarding strategy and retention campaigns.
+----------------------------------------------------------------------
+Career_Coach: This is an excellent response, demonstrating strong communication and stakeholder management skills. You effectively articulated key strategies: simplifying visuals, avoiding jargon, focusing on the "so what," using concrete examples, and creating relatable personas. Connecting these strategies directly to actionable outcomes ("clear, immediate changes") perfectly illustrates the impact of your communication.
+
+To add an extra layer, you could briefly mention if you also provided a **concise executive summary** or followed up with a **Q&A session** to address any lingering questions.
+
+Let's shift gears slightly. As a Data Analyst, you'll often encounter situations where the data quality isn't perfect. Can you describe your approach when you find inconsistencies or missing values in a critical dataset?
+----------------------------------------------------------------------
+Interviewer: That's a great example of translating technical insights for a non-technical audience.
+
+Now, let's consider another common challenge. As a Data Analyst, you'll often encounter situations where the data quality isn't perfect. Can you describe your approach when you find inconsistencies or missing values in a critical dataset?
+----------------------------------------------------------------------
+candidate:
+Enter your response: When I encounter inconsistencies or missing values in a critical dataset, my first step is to profile the data using descriptive statistics and visual checks to understand the extent and pattern of the issue. I then assess the impact of missing data on the analysis—whether it's random, systematic, or business-critical.Depending on the context, I may use techniques like imputation (mean, median, or model-based), flagging missingness as a separate category, or excluding affected records if justified. I always consult with domain experts to validate assumptions and document the cleaning steps to ensure transparency and reproducibility.
+----------------------------------------------------------------------
+Career_Coach: This is an excellent and thorough response! You've clearly outlined a systematic and responsible approach to data quality issues. Your emphasis on **profiling**, understanding the **impact**, selecting techniques **contextually**, and crucially, **consulting domain experts** and **documenting** steps, demonstrates a mature and professional understanding of data analysis best practices.
+
+To make it even more robust, you could briefly give a specific example of an "inconsistency" you've encountered (e.g., "like varying date formats, inconsistent categorical spellings, or duplicate records") to show the breadth of issues you've handled beyond just missing values.
+
+Let's move on. Imagine you're tasked with identifying the top 5 customers who have spent the most in each of the last three months from a `transactions` table (columns: `customer_id`, `transaction_date`, `amount`). How would you approach this using SQL?   
+----------------------------------------------------------------------
+Interviewer: TERMINATE
+----------------------------------------------------------------------
 Interview completed with result: Text 'TERMINATE' mentioned
+PS C:\Users\Akshay\Desktop\0. AI Interviewer> 
+
