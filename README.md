@@ -6,7 +6,6 @@ There are two basic agents in autogen:
 
 Note: 
 1) Make sure to enter your Google Gemini API key in AI_interview.py
-2) Before beginning the interview mention your Job Position in main.py
    
 Demo Run: Job Position -> Business Analyst
 ----------------------------------------------------------------------
