@@ -12,7 +12,7 @@ load_dotenv()
 
 async def team_Config(job_position="Software Engineer"):
 
-    model_client = OpenAIChatCompletionClient(model="gemini-2.5-flash",api_key='AIzaSyA96RLD5q4zFnBcN4Qg3qCELIzlzcX9z4s') #Enter you API key from Gemini
+    model_client = OpenAIChatCompletionClient(model="gemini-2.5-flash",api_key='') #Enter you API key from Gemini
 
     # Defining our Agent
     # 1. Interviewer Agent
